@@ -1,8 +1,8 @@
-# Brain Tumor Segmentation using U-Net with Zoom-on-Mask Augmentation
+# Brain Tumor Segmentation using U-Net with Zoom-on-Mask Augmentation(practice for unet variants)
 
 ## Overview
 
-This repository presents a deep learning pipeline for **brain tumor segmentation** using a modified **U-Net architecture**. The primary innovation is a custom **"zoom-on-mask" data augmentation** strategy and a **fail-safe inference mechanism** to improve segmentation of small tumor regions.
+I made this to understand how the u-net model basically works..This repository presents a deep learning pipeline for **brain tumor segmentation** using a modified **U-Net architecture**. The primary innovation is a custom **"zoom-on-mask" data augmentation** strategy and a **fail-safe inference mechanism** to improve segmentation of small tumor regions.
 
 The model is trained to segment tumor regions from brain MRI images, outputting binary masks indicating tumor locations.
 
